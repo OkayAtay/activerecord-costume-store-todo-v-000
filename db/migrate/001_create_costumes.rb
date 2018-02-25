@@ -1,5 +1,6 @@
 class CreateCostumes
-
+  def change
+  end
 end
 
 
