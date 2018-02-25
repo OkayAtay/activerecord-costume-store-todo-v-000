@@ -1,5 +1,6 @@
-class CreateCostumes
+class CreateCostumes < ActiveRecord::Migration
   def change
+    create_table
   end
 end
 
